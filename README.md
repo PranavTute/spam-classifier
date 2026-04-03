@@ -47,4 +47,6 @@ An AI-powered web app that detects whether a message is **Spam** or **Not Spam**
 ## 📁 Project Structure
 
 
+##🧠 Short Explanation of Approach
 
+I built a spam message classifier using a machine learning approach. First, I loaded and cleaned the SMS dataset by converting text to lowercase and removing unnecessary characters. Then, I transformed the text data into numerical form using TF-IDF vectorization. After that, I trained a Logistic Regression model to classify messages as spam or not spam. The model achieved high accuracy on test data. Finally, I created a simple Streamlit web app where users can input a message and get real-time predictions.
