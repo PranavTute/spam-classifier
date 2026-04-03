@@ -39,6 +39,9 @@ An AI-powered web app that detects whether a message is **Spam** or **Not Spam**
 - Accuracy: **~95% to 98%**
 - Dataset: SMS Spam Collection
 
+##screenshot
+<img width="1407" height="946" alt="Screenshot 2026-04-03 133059" src="https://github.com/user-attachments/assets/119844f1-343f-426d-a742-bc07af930438" />
+
 ---
 
 ## 📁 Project Structure
